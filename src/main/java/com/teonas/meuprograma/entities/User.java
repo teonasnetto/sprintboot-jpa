@@ -1,4 +1,4 @@
-package com.teonas.services.entities;
+package com.teonas.meuprograma.entities;
 
 import java.io.Serializable;
 

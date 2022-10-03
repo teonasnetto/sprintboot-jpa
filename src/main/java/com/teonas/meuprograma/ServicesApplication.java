@@ -1,4 +1,4 @@
-package com.teonas.services;
+package com.teonas.meuprograma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

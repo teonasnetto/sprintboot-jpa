@@ -1,8 +1,8 @@
-package com.teonas.services.repositories;
+package com.teonas.meuprograma.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.teonas.services.entities.User;
+import com.teonas.meuprograma.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
     

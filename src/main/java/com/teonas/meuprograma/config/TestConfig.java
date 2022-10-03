@@ -1,4 +1,4 @@
-package com.teonas.services.config;
+package com.teonas.meuprograma.config;
 
 import java.util.Arrays;
 
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import com.teonas.services.entities.User;
-import com.teonas.services.repositories.UserRepository;
+import com.teonas.meuprograma.entities.User;
+import com.teonas.meuprograma.repositories.UserRepository;
 
 @Configuration
 @Profile("test")
